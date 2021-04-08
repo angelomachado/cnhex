@@ -9,7 +9,7 @@ Adicione a dependência ao arquivo `mix.exs` do seu projeto:
 ```elixir
 def deps do
   [
-    {:cnhex, "~> 0.1.0"}
+    {:cnhex, "~> 0.1.1"}
   ]
 end
 ```
